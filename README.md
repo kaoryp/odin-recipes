@@ -1,3 +1,2 @@
-#HTML practice basic recipe website
-
 # odin-recipes
+HTML practice basic recipe website
